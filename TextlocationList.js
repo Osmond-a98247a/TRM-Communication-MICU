@@ -36273,7 +36273,7 @@ var TextlocationList = [{
     }
   ]
 },{
-  "index": "23",
+  "index": "0",
   "pdfWidth": "810",
   "pdfHeight": "1440",
   "content": [
@@ -36659,7 +36659,7 @@ var TextlocationList = [{
       "height": "45.5962677",
       "left": "418.965363",
       "top": "229.216309",
-      "keyword": "錯"
+      "keyword": "正"
     },
     {
       "index": "48",
@@ -36667,7 +36667,7 @@ var TextlocationList = [{
       "height": "45.5962677",
       "left": "481.168457",
       "top": "229.216309",
-      "keyword": "誤"
+      "keyword": "確"
     },
     {
       "index": "49",
@@ -36739,7 +36739,7 @@ var TextlocationList = [{
       "height": "0",
       "left": "418.965363",
       "top": "229.216309",
-      "keyword": "錯"
+      "keyword": "正"
     },
     {
       "index": "58",
@@ -36747,7 +36747,7 @@ var TextlocationList = [{
       "height": "0",
       "left": "481.168457",
       "top": "229.216309",
-      "keyword": "誤"
+      "keyword": "確"
     },
     {
       "index": "59",
@@ -36835,7 +36835,7 @@ var TextlocationList = [{
       "height": "45.5962677",
       "left": "418.965363",
       "top": "229.216309",
-      "keyword": "錯"
+      "keyword": "正"
     },
     {
       "index": "70",
@@ -36843,7 +36843,7 @@ var TextlocationList = [{
       "height": "45.5962677",
       "left": "481.168457",
       "top": "229.216309",
-      "keyword": "誤"
+      "keyword": "確"
     },
     {
       "index": "71",
